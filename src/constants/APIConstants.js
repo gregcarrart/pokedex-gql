@@ -1,0 +1,1 @@
+export const GQLRoot = 'https://graphql-pokemon.now.sh/';
